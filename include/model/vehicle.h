@@ -3,8 +3,6 @@
 
 #include "math/vector.h"
 
-typedef Vector2D vector;
-
 class Vehicle
 {
     // position in space;

@@ -30,4 +30,6 @@ struct Vector2D
     bool operator!=(const Vector2D& rhs);
 };
 
+typedef struct Vector2D vector;
+
 #endif // __LGAI_MATH_VECTOR_H__
